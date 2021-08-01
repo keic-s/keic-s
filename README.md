@@ -1,9 +1,10 @@
 # こんにちは 👋
 
 ### 日本語
+現役ピチピチ大学生です。
 
 ### English
-
+I'm a university student.
 
 <!--
 **Keishi-S/Keishi-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
