@@ -1,5 +1,10 @@
 ### こんにちは 👋
 
+## 日本語
+
+## English
+
+
 <!--
 **Keishi-S/Keishi-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
