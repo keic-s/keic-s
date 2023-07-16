@@ -7,8 +7,6 @@
 <a href="http://qiita.com/keic-s"><img src="https://qiita-badge.apiapi.app/s/keic-s/contributions.svg"></a>
  -->
 
-大学生です。
-I'm a university student.
 
 ## 好きなもの My Favorite
 - Vtuber🌈
