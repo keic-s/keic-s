@@ -19,8 +19,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=keic-s&count_private=true&show_icons=true&title_color=ffffff&bg_color=45,5abced,288bcf&icon_color=ffffff&text_color=ffffff" />
+       src="https://github-readme-stats.vercel.app/api?username=keic-s&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keic-s&layout=compact&title_color=ffffff&bg_color=45,5abced,288bcf&text_color=ffffff"" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keic-s&layout=compact&theme=tokyonight" />
 </a>
