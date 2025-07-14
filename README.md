@@ -1,12 +1,9 @@
 # Hi 👋
-
-![Twitter Follow](https://img.shields.io/twitter/follow/keic_s?logoColor=5abced&style=social)
-<img src="https://komarev.com/ghpvc/?username=keic-s&color=5abced&style=flat-square">
-<!--
-<a href="http://qiita.com/keic-s"><img src="https://qiita-badge.apiapi.app/s/keic-s/posts.svg"></a>
-<a href="http://qiita.com/keic-s"><img src="https://qiita-badge.apiapi.app/s/keic-s/contributions.svg"></a>
- -->
-
+<p align="left">
+ <img height="20" src="https://img.shields.io/twitter/follow/keic_s?logoColor=5abced&style=social">
+ <img height="20" src="https://komarev.com/ghpvc/?username=keic-s&color=5abced&style=flat-square">
+ <img height="20" src="https://img.shields.io/github/followers/keic-s?label=follow&logo=github&style=flat" />
+</p>
 
 ## 好きなもの My Favorite
 - Vtuber🌈
