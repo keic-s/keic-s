@@ -15,6 +15,7 @@
 
 <!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=keic-s&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<br/><br/>
 
 <!-- Stats -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -32,7 +33,13 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keic-s&theme=tokyonight" />
 </a>
+<br/><br/>
 
+<!-- Skills -->
+<a href="https://skillicons.dev/">
+  <img src="https://skillicons.dev/icons?i=unity,cs,rider,py,opencv,anaconda,html,css,js,git,github,vscode,unreal,latex,md,notion,discord&theme=dark&perline=13" />
+</a>
+<br/><br/>
 
 ## 好きなもの My Favorite
 - Vtuber🌈
