@@ -5,6 +5,8 @@
  <img height="20" src="https://img.shields.io/github/followers/keic-s?label=follow&logo=github&style=flat" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=keic-s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 好きなもの My Favorite
 - Vtuber🌈
 - ダーツ Darts🎯
