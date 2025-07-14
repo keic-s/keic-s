@@ -17,11 +17,20 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=keic-s&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=keic-s&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keic-s&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keic-s&layout=compact&theme=tokyonight" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keic-s&theme=tokyonight" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keic-s&theme=tokyonight" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keic-s&theme=tokyonight" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keic-s&theme=tokyonight" />
 </a>
 
 
