@@ -40,11 +40,3 @@
   <img src="https://skillicons.dev/icons?i=unity,cs,rider,py,opencv,anaconda,html,css,js,git,github,vscode,unreal,latex,md,notion,discord&theme=dark&perline=13" />
 </a>
 <br/><br/>
-
-## 好きなもの My Favorite
-- Vtuber🌈
-- ダーツ Darts🎯
-- カラオケ Karaoke🎤🎶
-- 麻雀 Mahjong🀄
-- フォント Fonts🔡
-- グラフィックデザイン Graphic Design🖼
